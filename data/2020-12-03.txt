@@ -1,0 +1,3 @@
+sara: 13
+notional: 2200
+place: 寿司魚がし日本一池袋西口店
