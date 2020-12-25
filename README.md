@@ -2,7 +2,7 @@
 - This directory logs my sushi eating. For Japanease, sushi is a special dish, and we often eat sushi at celebration days and feel high motivation from sushi.
 - Personally I everytime goes to sushi restaurants after boxing exercise. Sushi is high protein and low fat food, which is desirable for sportsperson.
 - Monitoring performance of boxing exercise or other sports might be intractable due to their various activities, or will be boring. (I stopped monitoring several times.) However, sushi monitoring is (expected to be) super fun for Japanese.
-- I'm not 100% sure what is the best way to log sushi and it might have seasonarity, (sushi is tasty in winter and I prefer stakes than sushi in summer), but just a try.
+- I'm not 100% sure what is the best way to log sushi and it might have seasonarity, (sushi is tasty in winter and I prefer steaks than sushi in summer), but just a try.
 - **Let's try to log sth on GitHub.**
 
 ## In Logging
